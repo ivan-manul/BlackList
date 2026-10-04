@@ -1,8 +1,68 @@
-# Title: DNS filter
-# Version: 1.0.0.1
-# Homepage: https://github.com/ivan-manul/BlackList
+# Заголовок: ДНС фильтр
+# Описание: Файл содержит домены, которые необходимо фильтровать для избежания рекламы на страницах с браузере. Не является полной версией!
+# Версия: 1.0.0.2
+# Репозиторий: https://github.com/ivan-manul/BlackList
+# Ссылка на черный список (этот): https://rawcdn.githack.com/ivan-manul/BlackList/bef282d965d518fa0f8f04d39bbb6cd82108f539/hosts.txt
 
 # YouTube Ads
 s.youtube.com
 redirector.googlevideo.com
 youtubei.googleapis.com
+
+# Google Tag Manager
+googletagmanager.com
+tagmanager.google.com
+www.googletagmanager.com
+
+# Quantcast
+quantserve.com
+pixel.quantserve.com
+quantcast.com
+
+# Мобильная атрибуция
+app.appsflyer.com
+appsflyer.com
+app.adjust.com
+adjust.com
+api2.branch.io
+bnc.lt
+kochava.com
+control.kochava.com
+singular.net
+
+# Вредоносные скрипты
+2giga.link
+greatis.com
+statdynamic.com
+
+# Instagram
+graph.instagram.com
+i.instagram.com
+
+# Facebook / Meta
+pixel.facebook.com
+an.facebook.com
+connect.facebook.net
+graph.facebook.com
+tr.facebook.com
+
+# VK (VKontakte)
+ads.vk.com
+vk.com/rtrg
+
+# Apple
+xp.apple.com
+
+# Microsoft (Surface / Windows)
+settings-win.data.microsoft.com
+
+# Платформы управления согласием
+cdn.cookielaw.org
+consent.cookiebot.com
+consentcdn.cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+geolocation.onetrust.com
+cookiebot.com
