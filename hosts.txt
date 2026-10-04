@@ -65,3 +65,47 @@ cdn.privacy-mgmt.com
 app.usercentrics.eu
 geolocation.onetrust.com
 cookiebot.com
+
+# Magnite (Rubicon / SpotX)
+rubiconproject.com
+
+# Commission Junction (CJ)
+www.anrdoezrs.net
+www.dpbolvw.net
+www.tkqlhce.com
+
+# ShareASale
+shareasale.com
+
+# Rakuten Advertising
+click.linksynergy.com
+
+# Impact
+impact.com
+api.impact.com
+
+# Awin
+www.awin1.com
+zenaps.com
+
+# Skimlinks
+redirector.skimresources.com
+
+# Viglink / Sovrn
+redirect.viglink.com
+
+# Email-маркетинг
+trackcmp.net
+
+# Трекеры чатов
+widget.intercom.io
+
+# VAST / VPAID
+imasdk.googleapis.com
+dai.google.com
+
+# JW Player Ads
+ssl.p.jwpcdn.com
+
+# FreeWheel (Comcast)
+mssl.fwmrm.net
