@@ -1,1 +1,8 @@
+# Title: DNS filter
+# Version: 1.0.0.1
+# Homepage: https://github.com/ivan-manul/BlackList
+
+# YouTube Ads
 s.youtube.com
+redirector.googlevideo.com
+youtubei.googleapis.com
